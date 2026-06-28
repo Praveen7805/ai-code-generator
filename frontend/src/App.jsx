@@ -113,7 +113,7 @@ export default function App() {
                   disabled={loading}
                   className="w-full px-6 py-3 bg-gradient-to-r from-blue-500 to-purple-600 text-white rounded-lg font-bold hover:shadow-lg disabled:opacity-50 transition-all"
                 >
-                  {loading ? '⏳ Generating... (this takes ~2-3 mins)' : '🚀 Generate Code'}
+                  {loading ? '⏳ Generating... (this takes ~4-5 mins, please wait!)' : '🚀 Generate Code'}
                 </button>
               </form>
 
@@ -200,7 +200,7 @@ export default function App() {
                   <div className="w-12 h-12 border-4 border-blue-500/30 border-t-blue-500 rounded-full animate-spin mb-4"></div>
                 </div>
                 <p className="text-slate-300 text-lg font-medium">Generating your code...</p>
-                <p className="text-slate-500 mt-2">This typically takes 2-3 minutes. Please wait!</p>
+                <p className="text-slate-500 mt-2">This typically takes 4-5 minutes. Please be patient!</p>
               </div>
             </div>
           )}
