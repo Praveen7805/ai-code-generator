@@ -283,9 +283,11 @@ vercel --prod
 ## 📈 Performance
 
 **Generation Time:**
-- Code generation: ~60-90 seconds
-- Test generation: ~60-90 seconds
-- **Total:** ~2-3 minutes
+- Code generation: ~2-3 minutes
+- Test generation: ~1-2 minutes
+- **Total:** ~4-5 minutes
+
+*Note: Generation time depends on your CPU. Faster processors = faster generation.*
 
 **System Requirements:**
 - CPU: 4+ cores recommended
