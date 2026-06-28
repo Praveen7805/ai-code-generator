@@ -347,4 +347,4 @@ If you found this useful, please consider starring the repository! It helps othe
 
 ---
 
-**Made with ❤️ by Praveen Marimuthu**
+**Made by Praveen Marimuthu**
